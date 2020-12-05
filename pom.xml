@@ -85,7 +85,7 @@
 					</sources>
 				</configuration>
 			</plugin>
-            <plugin>
+<!--             <plugin>
                 <groupId>com.spotify</groupId>
                 <artifactId>dockerfile-maven-plugin</artifactId>
                 <executions>
@@ -101,7 +101,7 @@
                 <configuration>
                     <repository>soapproducer</repository>
                 </configuration>
-            </plugin>
+            </plugin> -->
 		</plugins>
 	</build>
 
